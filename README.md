@@ -1,34 +1,50 @@
 # Hello Folks 👋
 
-My name is Shaik Muhammed Zahid Ahmed, I'm currently working as a **Trainee Test Engineer** at [**PTW**](https://www.ptw.com/)
-
-<!--- 👀 I’m interested
----> 
+My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a **Trainee Test Engineer** at [**PTW**](https://www.ptw.com/)
 
 🌱 I’m currently learning **Automation Testing, AWS, Azure**
 
 📫 You can get in touch with me by email at muhammedzahidahmed@gmail.com and [@zarshaik](www.linkedin.com/in/zarshaik) on **LinkedIn.**
 
+# Skills and Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=MYSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-323330?style=for-the-badge&logo=amazon&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Jira-1572B6?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manual testing-E34F26?style=for-the-badge&logo=Manual testing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine learning-007ACC?style=for-the-badge&logo=Machine Learningt&logoColor=white" />
+ </p>
+
+
+# Work Experience
+
+<img src= "https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" width="60" height="60">   **Trainee Test Engineer**
 
 
 
+# Projects
 
-# Portfolio
+### [ROAD ACCIDENT ANALYSIS USING MACHINE LEARNING.](https://github.com/zarshaik/Road-Accident-analysis)
 
-# DATA SCIENCE PROJECTS
+### [FAKE NEWS DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-news-detection)
 
-## [ROAD ACCIDENT ANALYSIS USING MACHINE LEARNING.](https://github.com/zarshaik/Road-Accident-analysis)
+### STUDENT FEEDBACK ANALYSIS USING MACHINE LEARNING.
 
-## [FAKE NEWS DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-news-detection)
+### CONCRETE COMPRESSION STRENGTH ANALYSIS USING MACHINE LEARNING
 
-## STUDENT FEEDBACK ANALYSIS USING MACHINE LEARNING.
+### [FAKE USER DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-user-detection)
 
-## CONCRETE COMPRESSION STRENGTH ANALYSIS USING MACHINE LEARNING
+### [CROP PREDICTION USING MACHINE LEARNING.](https://github.com/zarshaik/Crop-Prediction)
 
-## [FAKE USER DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-user-detection)
+### AIR QUALITY PREDICTION USING MACHINE LEARNING.
 
-## [CROP PREDICTION USING MACHINE LEARNING.](https://github.com/zarshaik/Crop-Prediction)
+### DISASTER MANAGEMENT USING MACHINE LEARNING.
 
-## AIR QUALITY PREDICTION USING MACHINE LEARNING.
+# Where to find me:
 
-## DISASTER MANAGEMENT USING MACHINE LEARNING.
+<p>
+  [<img src="https://img.shields.io/badge/GMAIL-ED8B00?style=for-the-badge&logo=Gmail&logoColor=white" />]
+  [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/zarshaik) [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/zarshaik)
+<p>
