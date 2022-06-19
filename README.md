@@ -20,9 +20,25 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 
 # Work Experience
 
-<img src= "https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" width="60" height="60">   **Trainee Test Engineer**
+<img src="https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" align="left" width="200px"/>
 
+# Trainee Test Engineer
 
+• Testing each build, maintaining fault reports and feeding comments, suggestions back to the developers
+
+• Producing Test Specification based on the clients’ requirements for each segment of the project
+
+• Execution and Maintenance of Manual Tests.
+
+• Responsible for handling the Defect Calls and Daily Status Reporting.
+
+• Tracking the Bug Fixes, Change Requests and retesting them.
+
+• Presentation of Project functionality to Business Users.
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
 
 # Projects
 
@@ -45,6 +61,7 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 # Where to find me:
 
 <p>
-  [<img src="https://img.shields.io/badge/GMAIL-ED8B00?style=for-the-badge&logo=Gmail&logoColor=white" />]
-  [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/zarshaik) [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/zarshaik)
+  <img src="https://img.shields.io/badge/GMAIL-ED8B00?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />(https://github.com/zarshaik)
+  <img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />(www.linkedin.com/in/zarshaik)
 <p>
