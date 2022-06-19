@@ -32,7 +32,7 @@ Skilled in Manual testing, Python, SQL.
 
 </p>
 
-# Trainee Test Engineer - (Jan 2022 - Present)
+## Trainee Test Engineer - (Jan 2022 - Present)
 
 • Testing each build, maintaining fault reports and feeding comments, suggestions back to the developers
 
@@ -52,7 +52,7 @@ Skilled in Manual testing, Python, SQL.
 
 </p>
 
-# SDS ASSOCIATE - CAP HELPLINE    -       (Nov 2021 - Jan 2022)
+## SDS Associate - CAP Helpline    -       (Nov 2021 - Jan 2022)
 
 • Resolving support escalation tickets.
 
@@ -62,7 +62,7 @@ Skilled in Manual testing, Python, SQL.
 
 • Achieve and maintain predefined performance metric goals such as Quality, Productivity
 
-# SDS Associate            -       (Sep 2020 - Nov 2021)
+## SDS Associate            -       (Sep 2020 - Nov 2021)
 
 • Resolving support tickets.
 
@@ -77,21 +77,21 @@ Skilled in Manual testing, Python, SQL.
 
 # Projects
 
-### [ROAD ACCIDENT ANALYSIS USING MACHINE LEARNING.](https://github.com/zarshaik/Road-Accident-analysis)
+[**ROAD ACCIDENT ANALYSIS USING MACHINE LEARNING.**](https://github.com/zarshaik/Road-Accident-analysis)
 
-### [FAKE NEWS DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-news-detection)
+[**FAKE NEWS DETECTION USING MACHINE LEARNING.**](https://github.com/zarshaik/Fake-news-detection)
 
-### [FAKE USER DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-user-detection)
+[**FAKE USER DETECTION USING MACHINE LEARNING.**](https://github.com/zarshaik/Fake-user-detection)
 
-### [CROP PREDICTION USING MACHINE LEARNING.](https://github.com/zarshaik/Crop-Prediction)
+[**CROP PREDICTION USING MACHINE LEARNING.**](https://github.com/zarshaik/Crop-Prediction)
 
-### STUDENT FEEDBACK ANALYSIS USING MACHINE LEARNING.
+[**STUDENT FEEDBACK ANALYSIS USING MACHINE LEARNING.**](https://github.com/zarshaik/)
 
-### CONCRETE COMPRESSION STRENGTH ANALYSIS USING MACHINE LEARNING
+[**CONCRETE COMPRESSION STRENGTH ANALYSIS USING MACHINE LEARNING.**](https://github.com/zarshaik/)
 
-### AIR QUALITY PREDICTION USING MACHINE LEARNING.
+[**AIR QUALITY PREDICTION USING MACHINE LEARNING.**](https://github.com/zarshaik/)
 
-### DISASTER MANAGEMENT USING MACHINE LEARNING.
+[**DISASTER MANAGEMENT USING MACHINE LEARNING.**](https://github.com/zarshaik/)
 
 # My Contributions
 
