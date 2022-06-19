@@ -94,17 +94,13 @@ Skilled in Manual testing, Python, SQL.
 ### DISASTER MANAGEMENT USING MACHINE LEARNING.
 
 # My Contributions
-<p>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zarshaik&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-  
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarshaik&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-  
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarshaik&layout=compact&theme=cobalt&hide_border=true" />
-  
-</p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zarshaik&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zarshaik&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarshaik&layout=compact&theme=cobalt&hide_border=true" />
+
 
 # Where to find me:
 
