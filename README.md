@@ -20,7 +20,9 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 
 # Work Experience
 
-<img src="https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" align="left" width="200px"/>
+<p align="center">
+  
+<img width="250" height="110" src="https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" />
 
 # Trainee Test Engineer
 
@@ -37,6 +39,38 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 • Presentation of Project functionality to Business Users.
 
 <br clear="left"/>
+  
+<p align="center">
+
+<img width="350" height="210" src="https://user-images.githubusercontent.com/42908895/174497117-b4af1cd9-4b9a-4e40-9468-1ba1f5e05005.png" />
+
+</p>
+
+# SDS ASSOCIATE - CAP HELPLINE    Nov 2021 - Jan 2022 · 
+
+• Resolving support escalation tickets.
+
+• De-escalate complicate situations, prevent invalid concessions and abuse patterns.
+
+• Supporting frontline associates on the policy awareness and contact handling.
+
+• Achieve and maintain predefined performance metric goals such as Quality, Productivity
+
+# SDS Associate                   Sep 2020 - Nov 2021 
+
+• Resolving support tickets.
+
+• Managing account information (Cancelling and updating accounts).
+
+• De-escalate complicate situations, prevent invalid concessions and abuse patterns.
+
+• Building policy awareness, discouraging negative expectations for the brand and revenue.
+
+• Achieve and maintain predefined performance metric goals such as Quality, Productivity
+
+<br clear="left"/>
+
+
 
 A "newline". This text doesn't float anymore, is left-aligned.
 
