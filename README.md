@@ -1,6 +1,12 @@
 # Hello Folks 👋
 
-My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a **Trainee Test Engineer** at [**PTW**](https://www.ptw.com/)
+My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a **Trainee Test Engineer** at [**PTW**](https://www.ptw.com/). 
+
+People find me to be an upbeat, and a self-motivated team player. 
+
+I enjoy learning, and the knowledge and perspective that my learning gives me has strengthened my skills and presentation abilities. 
+
+Skilled in Manual testing, Python, SQL. 
 
 🌱 I’m currently learning **Automation Testing, AWS, Azure**
 
@@ -15,7 +21,7 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Manual testing-E34F26?style=for-the-badge&logo=Manual testing&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine learning-007ACC?style=for-the-badge&logo=Machine Learningt&logoColor=white" />
- </p>
+</p>
 
 
 # Work Experience
@@ -24,7 +30,9 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
   
 <img width="250" height="110" src="https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" />
 
-# Trainee Test Engineer
+</p>
+
+# Trainee Test Engineer - (Jan 2022 - Present)
 
 • Testing each build, maintaining fault reports and feeding comments, suggestions back to the developers
 
@@ -38,15 +46,13 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 
 • Presentation of Project functionality to Business Users.
 
-<br clear="left"/>
-  
 <p align="center">
 
 <img width="350" height="210" src="https://user-images.githubusercontent.com/42908895/174497117-b4af1cd9-4b9a-4e40-9468-1ba1f5e05005.png" />
 
 </p>
 
-# SDS ASSOCIATE - CAP HELPLINE    Nov 2021 - Jan 2022 · 
+# SDS ASSOCIATE - CAP HELPLINE    -       (Nov 2021 - Jan 2022)
 
 • Resolving support escalation tickets.
 
@@ -56,7 +62,7 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 
 • Achieve and maintain predefined performance metric goals such as Quality, Productivity
 
-# SDS Associate                   Sep 2020 - Nov 2021 
+# SDS Associate            -       (Sep 2020 - Nov 2021)
 
 • Resolving support tickets.
 
@@ -68,11 +74,6 @@ My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a
 
 • Achieve and maintain predefined performance metric goals such as Quality, Productivity
 
-<br clear="left"/>
-
-
-
-A "newline". This text doesn't float anymore, is left-aligned.
 
 # Projects
 
@@ -80,22 +81,35 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 ### [FAKE NEWS DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-news-detection)
 
-### STUDENT FEEDBACK ANALYSIS USING MACHINE LEARNING.
-
-### CONCRETE COMPRESSION STRENGTH ANALYSIS USING MACHINE LEARNING
-
 ### [FAKE USER DETECTION USING MACHINE LEARNING.](https://github.com/zarshaik/Fake-user-detection)
 
 ### [CROP PREDICTION USING MACHINE LEARNING.](https://github.com/zarshaik/Crop-Prediction)
+
+### STUDENT FEEDBACK ANALYSIS USING MACHINE LEARNING.
+
+### CONCRETE COMPRESSION STRENGTH ANALYSIS USING MACHINE LEARNING
 
 ### AIR QUALITY PREDICTION USING MACHINE LEARNING.
 
 ### DISASTER MANAGEMENT USING MACHINE LEARNING.
 
+# My Contributions
+<p>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zarshaik&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+  
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zarshaik&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+  
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarshaik&layout=compact&theme=cobalt&hide_border=true" />
+  
+</p>
+
 # Where to find me:
 
-<p>
-  <img src="https://img.shields.io/badge/GMAIL-ED8B00?style=for-the-badge&logo=Gmail&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />(https://github.com/zarshaik)
-  <img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />(www.linkedin.com/in/zarshaik)
-<p>
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/zarshaik) [<img alt="Github" src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zarshaik)
+
+
+
+  
