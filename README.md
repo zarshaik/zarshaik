@@ -8,7 +8,7 @@ I enjoy learning, and the knowledge and perspective that my learning gives me ha
 
 Skilled in Manual testing, Python, SQL. 
 
-🌱 I’m currently learning **AWS, Azure**
+🌱 I’m currently learning **AWS and AZURE**
 
 📫 You can get in touch with me by email at muhammedzahidahmed@gmail.com and [@zarshaik](www.linkedin.com/in/zarshaik) on **LinkedIn.**
 
