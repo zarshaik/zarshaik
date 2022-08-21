@@ -52,7 +52,7 @@ Skilled in Manual testing, Python, SQL.
 
 </p>
 
-## SDS Associate - CAP Helpline    -       (Nov 2021 - Jan 2022)
+## SDS Associate - CAP Helpline    -       (Nov 2021 - July 2022)
 
 • Resolving support escalation tickets.
 
