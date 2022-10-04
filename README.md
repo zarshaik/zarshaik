@@ -1,6 +1,6 @@
 # Hello Folks 👋
 
-My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently working as a **Trainee Test Engineer** at [**PTW**](https://www.ptw.com/). 
+My name is Shaik Muhammed Zahid Ahmed, I'm from India and currently open for Opportunities in Software Development and Testing. 
 
 People find me to be an upbeat, and a self-motivated team player. 
 
@@ -25,26 +25,6 @@ Skilled in Manual testing, Python, SQL.
 
 
 # Work Experience
-
-<p align="center">
-  
-<img width="250" height="110" src="https://user-images.githubusercontent.com/42908895/174455916-a6526077-a685-459d-a054-297766148aa4.png" />
-
-</p>
-
-## Trainee Test Engineer - (Jan 2022 - Present)
-
-• Testing each build, maintaining fault reports and feeding comments, suggestions back to the developers
-
-• Producing Test Specification based on the clients’ requirements for each segment of the project
-
-• Execution and Maintenance of Manual Tests.
-
-• Responsible for handling the Defect Calls and Daily Status Reporting.
-
-• Tracking the Bug Fixes, Change Requests and retesting them.
-
-• Presentation of Project functionality to Business Users.
 
 <p align="center">
 
